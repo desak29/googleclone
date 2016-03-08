@@ -1,0 +1,10 @@
+#header{
+	float:right;
+}
+.header-item{ float:left;
+	list-style-type: none; 
+}
+
+
+
+/*signifies class*/

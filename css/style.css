@@ -1,0 +1,36 @@
+#header{
+	float:right;
+}
+.header-item{ float:left;
+	list-style-type: none; 
+}
+.header-item.grid{
+background-image: url('img/google.png');
+    -webkit-background-size: 528px 68px;
+    background-size: 528px 68px;
+    background-position: -132px -38px;
+    opacity: .55;
+}
+.header-item.bell{
+	background-image:url('img/google.png')
+
+	background-position:-35px -1675px;
+	background-size:92px 1541px;
+	    box-sizing: border-box;
+    height: 30px;
+    width: 30px;
+        border-radius: 2px;
+            display: inline-block;
+    outline: none;
+    vertical-align: middle;
+        color: #609;
+        line-height: normal;
+    position: relative;
+    	text-align: left;
+        white-space: nowrap;
+}
+/*you can just put .grid*/
+/*is their a way to dump website memory after each use within browser*/
+
+
+/*signifies class*/
